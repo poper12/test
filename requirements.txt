@@ -1,0 +1,17 @@
+aiohttp~=3.9.0
+Pyrofork
+beautifulsoup4~=4.8.0
+requests
+pillow
+tgcrypto
+asyncpg
+psycopg2-binary
+fpdf2~=2.6.0
+pymongo
+psutil~=5.9.0
+alembic
+loguru
+flask
+gunicorn
+reportlab
+cloudscraper
